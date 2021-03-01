@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.azoft.enterprise.telemed.patient",
+                "appID": "JHDQ2CRC3V.com.azoft.enterprise.telemed.patient",
                 "paths": [ "*" ]
             }
         ]
